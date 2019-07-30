@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Quattrocento&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="aboutmestyles.css"></head>
+    <script src="aboutme.js"></script>
+<body>
+    <!--Hey, this is my first website for Girls Who Code. One of many.-->
+IVONNE LUNA
+
+<DIV>
+<h2>Bio:</h2>
+</DIV>
+
+</DIV>
+Hey!! I am Ivonne and I'm a girl who codes at adobe. I am a 10th grader going to 11th, and I am really excited to go back to school. I go to TYWLS of East Harlem.  I live at home with my parents, two siblings and my rabbit whose name is Bambi. I am a Taurus. Usually in my free time, I listen to music or I go out to run in the park. 
+</DIV>
+
+<br>
+<img src="http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg" width="200" onmouseover="makeImageBig(this)" onmouseout= "makeImageOriginalSize(this)">
+
+</DIV>
+<h2>Likes:</h2>I love horror movies, animals, food, oversized clothes, ice-cream, playing video games, going out, fruits, amusement parks, pull pranks on people, 
+
+<h2>Dislikes:</h2> I hate fish, vegetables (I know I’m not healthy), heights, insects, 
+</DIV>
+
+</DIV>
+<h2>What I'm good at:</h2>
+<ul>
+<li>Babysitting</li>
+<li>Eating</li>
+<li>Riding a motorcycle</li>
+</ul>
+</DIV>
+
+</DIV>
+<h2>Want to get good at:</h2>
+<ul>
+<li>Coding</li>
+<li>Finding my voice</li>
+<li>Interacting with others</li>
+</ul>
+</DIV>
+
+</DIV>
+<h2>GOALS:</h2>
+<ul>
+<li>College: MIT</li>
+<li>Getting a good job</li>
+<li>travel</li>
+</ul>
+</DIV>
+
+<button id= "Fun fact" onclick= "showHideSection('showHideSection')">SHOW Fun fact</button>
+<br><br>
+<div id="showHideSection"
+
+<DIV>
+<h2>Fun fact:</h2> I’ve been in a robotics competition and had seen what kind of robots there are. Also I can stuff food in my mouth!! 
+</DIV>
+
+</body>
+</html>
